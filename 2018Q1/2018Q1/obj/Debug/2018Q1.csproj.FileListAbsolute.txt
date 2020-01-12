@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\bin\Debug\2018Q1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\bin\Debug\2018Q1.exe
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\bin\Debug\2018Q1.pdb
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\obj\Debug\2018Q1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\obj\Debug\2018Q1.exe
+c:\users\user\documents\visual studio 2015\Projects\2018Q1\2018Q1\obj\Debug\2018Q1.pdb
+D:\c#_code\Window-Programming\2018Q1\2018Q1\bin\Debug\2018Q1.exe.config
+D:\c#_code\Window-Programming\2018Q1\2018Q1\obj\Debug\2018Q1.exe
+D:\c#_code\Window-Programming\2018Q1\2018Q1\obj\Debug\2018Q1.pdb

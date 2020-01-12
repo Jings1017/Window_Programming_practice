@@ -1,0 +1,9 @@
+D:\c#_code\practice6_bonus\practice6_bonus\bin\Debug\practice6_bonus.exe.config
+D:\c#_code\practice6_bonus\practice6_bonus\bin\Debug\practice6_bonus.exe
+D:\c#_code\practice6_bonus\practice6_bonus\bin\Debug\practice6_bonus.pdb
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.csprojResolveAssemblyReference.cache
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.Form1.resources
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.Properties.Resources.resources
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.csproj.GenerateResource.Cache
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.exe
+D:\c#_code\practice6_bonus\practice6_bonus\obj\Debug\practice6_bonus.pdb

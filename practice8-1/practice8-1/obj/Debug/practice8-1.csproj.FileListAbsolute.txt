@@ -1,0 +1,9 @@
+D:\c#_code\practice8-1\practice8-1\bin\Debug\practice8-1.exe.config
+D:\c#_code\practice8-1\practice8-1\bin\Debug\practice8-1.exe
+D:\c#_code\practice8-1\practice8-1\bin\Debug\practice8-1.pdb
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8-1.csprojResolveAssemblyReference.cache
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8_1.Form1.resources
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8_1.Properties.Resources.resources
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8-1.csproj.GenerateResource.Cache
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8-1.exe
+D:\c#_code\practice8-1\practice8-1\obj\Debug\practice8-1.pdb

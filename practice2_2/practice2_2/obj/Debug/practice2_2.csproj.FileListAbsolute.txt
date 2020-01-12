@@ -1,0 +1,6 @@
+D:\c#_code\practice2_2\practice2_2\bin\Debug\practice2_2.exe.config
+D:\c#_code\practice2_2\practice2_2\bin\Debug\practice2_2.exe
+D:\c#_code\practice2_2\practice2_2\bin\Debug\practice2_2.pdb
+D:\c#_code\practice2_2\practice2_2\obj\Debug\practice2_2.csprojResolveAssemblyReference.cache
+D:\c#_code\practice2_2\practice2_2\obj\Debug\practice2_2.exe
+D:\c#_code\practice2_2\practice2_2\obj\Debug\practice2_2.pdb
